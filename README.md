@@ -1,5 +1,11 @@
 <div align="center">
 
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A84F3DP)
+
+</div>
+
+<div align="center">
+
   ![Things I Love](code_with.svg)
 
 </div>
