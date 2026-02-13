@@ -21,7 +21,8 @@
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpanghosh8453&theme=dark&hide_border=true&hide=jinja&layout=compact&hide_title=true&bg_color=161b22&text_color=bcbaba)](https://github.com/arpanghosh8453) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=arpanghosh8453&theme=dark&hide_border=true&hide=prs,issues&line_height=30&show_icons=true&icon_color=905aff8b&hide_rank=true&hide_title=true&text_bold=false&bg_color=161b22&text_color=bcbaba)](https://github.com/arpanghosh8453)
+<img src="./profile/stats.svg" height="150" title="GitHub Stats" alt="GitHub Stats"/>
+<img src="./profile/top-langs.svg" height="150" title="Github Top languages" alt="Github Top languages"/>
 
 </div>
 
