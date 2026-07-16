@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Arpan Ghosh's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 6145, Total Commits  (last year) : 875, Total PRs: 12, Total Issues: 58, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 6148, Total Commits  (last year) : 876, Total PRs: 12, Total Issues: 58, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 62.93930699712249;
+        stroke-dashoffset: 62.928728697221935;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >875</text>
+      >876</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >5</text>
+      >4</text>
     </g>
   </g>
     </svg>
